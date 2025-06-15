@@ -4,7 +4,7 @@ This is a clean, responsive personal portfolio built using **HTML**, **CSS**, an
 
 ## 🚀 Live Demo
 
-[🔗 View Website](https://automatebytes.github.io/portfolio)  
+[🔗 View Website](https://automatebytes.github.io/)  
 *Replace `yourusername` with your actual GitHub username after deploying.*
 
 ## 🖼️ Preview
